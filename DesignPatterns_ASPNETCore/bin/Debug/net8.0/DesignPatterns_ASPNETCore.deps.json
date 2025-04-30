@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesignPatterns_ASPNETCore/1.0.0": {
+        "dependencies": {
+          "DesignPatterns.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns_ASPNETCore.dll": {}
+        }
+      },
+      "DesignPatterns.Utilities/1.0.0": {
+        "runtime": {
+          "DesignPatterns.Utilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatterns_ASPNETCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatterns.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
