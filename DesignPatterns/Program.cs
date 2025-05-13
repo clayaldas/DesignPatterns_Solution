@@ -1,4 +1,5 @@
-﻿using DesignPatterns.Singleton;
+﻿using DesignPatterns.FactoryMethod.Factories;
+using DesignPatterns.Singleton;
 
 namespace DesignPatterns
 {
@@ -8,6 +9,7 @@ namespace DesignPatterns
         {
             #region Singleton 
 
+            /*
             Console.WriteLine("Patron Singleton!");
             //MySingleton singleton = MySingleton.GetInstance();
             MySingleton instance1 = MySingleton.GetInstance();
@@ -18,11 +20,12 @@ namespace DesignPatterns
 
             MySingleton instance3 = MySingleton.GetInstance();
             Console.WriteLine($"Id de la instancia: {instance3.Id}");
-
+            */
             #endregion
 
             #region Ejemplo de Singleton 
 
+            /*
             Log log1 = Log.GetInstance();
             log1.SaveFile("Martes 28 de abril del 2025");
             log1.SaveFile("Esto es una prueba de el patron Singleton");
@@ -38,7 +41,25 @@ namespace DesignPatterns
             Log log4 = Log.GetInstance();
             log4.SaveFile("Martes 31 de abril del 2025");
             log4.SaveFile("Esto es una prueba de el patron Singleton");
+            */
 
+            #endregion
+
+            #region Factory Method
+
+            Console.WriteLine("PATRON: Factory Method");
+            Console.WriteLine();
+
+            VehicleFactory vehicleFactory = null;
+
+            while (true)
+            {
+                Console.WriteLine("Seleccione un tipo de vehículo: (1) Auto, (2) Moto, (3) Bicicleta");
+
+                int option = Convert.ToInt32(Console.ReadLine());
+
+
+            }
 
             #endregion
         }
