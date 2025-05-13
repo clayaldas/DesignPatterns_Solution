@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
               "ToolTip": "C:\\Patrones de Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Program.cs",
               "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T15:55:14.761Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "DesignPatterns\\FactoryMethod\\Factories\\MotorCycleFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:50:09.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:50:09.792Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "DesignPatterns\\FactoryMethod\\Factories\\CarFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:47:15.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:47:15.617Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "DesignPatterns\\FactoryMethod\\Factories\\BikeFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:44:07.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:44:07.751Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "DesignPatterns\\FactoryMethod\\Factories\\VehicleFactory.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:22:05.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:22:05.643Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "DesignPatterns\\FactoryMethod\\Products\\MotorCycle.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:18:02.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:18:02.821Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "DesignPatterns\\FactoryMethod\\Products\\Car.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:16:30.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:16:30.276Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "DesignPatterns\\FactoryMethod\\Products\\Bike.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:13:48.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:13:48.631Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "DesignPatterns\\FactoryMethod\\IVehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:11:42.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T15:11:42.858Z"
             }
           ]
         }
