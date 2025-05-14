@@ -1,0 +1,26 @@
+﻿@{
+	//codigo del cliente (FRONT-END)	
+	// Obtener el valor de la variable: ViewBag.totalLocal
+	decimal totalLocal = (decimal) ViewBag.totalLocal;
+
+	decimal totalForeign = (decimal)ViewBag.totalForeign;
+}
+
+@* Como ASPNET utiliza BootStrap *@
+
+<div class="row">
+	<div class="col-12">
+		<label>
+			El total de ganancias por las ventas locales es:
+		</label>
+		<b>@totalLocal</b>
+		<br/>
+
+		<label>
+			El total de ganancias por las ventas en el extranjero es:
+		</label>
+		<b>@totalForeign</b>
+		<br />
+
+	</div>
+</div>

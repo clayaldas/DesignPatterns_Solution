@@ -1,4 +1,5 @@
-﻿using DesignPatterns.FactoryMethod.Factories;
+﻿using DesignPatterns.FactoryMethod;
+using DesignPatterns.FactoryMethod.Factories;
 using DesignPatterns.Singleton;
 
 namespace DesignPatterns
@@ -50,15 +51,35 @@ namespace DesignPatterns
             Console.WriteLine("PATRON: Factory Method");
             Console.WriteLine();
 
+            // Fabrica
             VehicleFactory vehicleFactory = null;
 
             while (true)
             {
-                Console.WriteLine("Seleccione un tipo de vehículo: (1) Auto, (2) Moto, (3) Bicicleta");
+                Console.WriteLine("Seleccione un tipo de vehículo: (1) Auto, (2) Moto, (3) Bicicleta, (4) Salir");
 
                 int option = Convert.ToInt32(Console.ReadLine());
 
+                switch (option)
+                {
+                    // Products
+                    case 1:
+                        vehicleFactory = new CarFactory();
+                        break;
+                        case 2:
+                        vehicleFactory = new MotorCycleFactory();                        
+                        break;
+                        case 3:
+                        vehicleFactory = new BikeFactory();
+                        break;
+                        case 4:
+                        break;
+                }
 
+                // usar la clase concretas
+                IVehicle vehicle = vehicleFactory.OrderVehicle();
+                Console.WriteLine($"Selecciono el tipo: {vehicle.GetType().Name}");
+                
             }
 
             #endregion

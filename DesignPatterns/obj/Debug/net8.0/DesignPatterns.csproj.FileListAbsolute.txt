@@ -13,3 +13,18 @@ C:\Patrones de Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\
 C:\Patrones de Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
 C:\Patrones de Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.genruntimeconfig.cache
 C:\Patrones de Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\bin\Debug\net8.0\DesignPatterns.exe
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\bin\Debug\net8.0\DesignPatterns.runtimeconfig.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.sourcelink.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\DesignPatterns.genruntimeconfig.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
