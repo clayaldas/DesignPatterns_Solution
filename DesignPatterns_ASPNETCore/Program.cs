@@ -1,3 +1,4 @@
+using DesignPatterns.Utilities.FactoryMethod_Profit.Factories;
 using DesignPatterns_ASPNETCore.Configuration;
 
 namespace DesignPatterns_ASPNETCore
@@ -8,9 +9,30 @@ namespace DesignPatterns_ASPNETCore
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // *************************************************************
+            // Inyección de Dependencias
+            // *************************************************************
+
             // Esto permite inyectar la clase "CustomConfiguration" en Container para esta pueda 
             // ser utilizada por cualquier "Controller".
             builder.Services.Configure<CustomConfiguration>(builder.Configuration.GetSection("CustomConfiguration"));
+
+            // Injectar la clase: LocalProfitFactory
+            builder.Services.AddTransient(
+                (factory) =>
+                {
+                    return  new LocalProfitFactory(0.3m);
+                }
+                );
+
+            // Injectar la clase: ForeignProfitFactory
+            builder.Services.AddTransient(
+                (factory) =>
+                {
+                    return new ForeignProfitFactory(0.3m, 0.16m);
+                }
+                );
+
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
