@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\models\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\models\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\repositorypattern\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\repositorypattern\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\repositorypattern\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\repositorypattern\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\repositorypattern\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\repositorypattern\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\repositorypattern\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\repositorypattern\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Client.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Models\\Client.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Models\\Client.cs",
-              "RelativeToolTip": "DesignPatterns\\Models\\Client.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAA4wJYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T18:11:06.034Z",
+              "WhenOpened": "2025-05-28T17:28:45.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\RepositoryPattern\\ClientRepository.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\ClientRepository.cs",
+              "RelativeToolTip": "DesignPatterns\\RepositoryPattern\\ClientRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:12:12.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SalesContext.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Models\\SalesContext.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Models\\SalesContext.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Models\\SalesContext.cs",
-              "RelativeToolTip": "DesignPatterns\\Models\\SalesContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\Repository.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\RepositoryPattern\\Repository.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\Repository.cs",
+              "RelativeToolTip": "DesignPatterns\\RepositoryPattern\\Repository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T18:09:07.735Z",
+              "WhenOpened": "2025-05-28T17:08:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\RepositoryPattern\\IClientRepository.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\IClientRepository.cs",
+              "RelativeToolTip": "DesignPatterns\\RepositoryPattern\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:03:27.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\IRepository.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\RepositoryPattern\\IRepository.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\IRepository.cs",
+              "RelativeToolTip": "DesignPatterns\\RepositoryPattern\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:59:58.072Z",
               "EditorCaption": ""
             }
           ]

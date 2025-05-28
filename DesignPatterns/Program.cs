@@ -1,6 +1,5 @@
-﻿using DesignPatterns.FactoryMethod;
-using DesignPatterns.FactoryMethod.Factories;
-using DesignPatterns.Singleton;
+﻿using DesignPatterns.Models;
+using DesignPatterns.RepositoryPattern;
 
 namespace DesignPatterns
 {
@@ -48,6 +47,7 @@ namespace DesignPatterns
 
             #region Factory Method
 
+            /*
             Console.WriteLine("PATRON: Factory Method");
             Console.WriteLine();
 
@@ -81,6 +81,88 @@ namespace DesignPatterns
                 Console.WriteLine($"Selecciono el tipo: {vehicle.GetType().Name}");
                 
             }
+            */
+            #endregion
+
+            #region Entity Framework
+            /*
+            using (var context = new SalesContext())
+            {
+                Console.WriteLine("Entity Framework");
+
+                // Obtener todos los registros de la tabla: Clients
+                var listClients = context.Clients.ToList();
+
+                // Mostrar cada registro recuperado en ciclo.
+                foreach (var row in listClients)
+                {
+                    Console.WriteLine(row.Id + "  " + row.Name +  
+                        "   " + row.LastName + "   " + row.Age);
+                }
+
+            }
+            */
+            #endregion
+
+            #region Repository Ejemplo 1
+            /*
+            using (var context = new SalesContext()) 
+            {
+                Console.WriteLine("Patron Repository");
+
+                // Crear el repository
+                var clientRepository = new ClientRepository(context);
+
+                // Insertar un registro
+                var client = new Client();
+                //client.Id = 1;
+                client.Name = "Test";
+                client.LastName = "Test";
+                client.Age = 34;
+
+                clientRepository.Add(client);
+                clientRepository.Save();
+
+                // Refrescar los datos.
+                foreach (var row in clientRepository.Get())
+                {
+                    Console.WriteLine(row.Id + " " + row.Name + " " + row.Age);
+                }
+            }
+            */
+            #endregion
+
+            #region Repository con genericios Ejemplo 2
+
+            // Utilizar la clase: Client
+            using (var context = new SalesContext()) 
+            { 
+                var clientRepository = new Repository<Client>(context);
+
+                // Insertar.
+               var client = new Client() { Name = "Nombre", LastName = "Apellido", Age = 34 };
+
+                clientRepository.Add(client);
+                //clientRepository.Save();
+
+                // Eliminar.
+                clientRepository.Delete(6);
+
+                // Actualizar.
+                client.Id = 4;
+                client.Name = "Actualizado";
+                client.LastName = "Actualizado";
+                client.Age = 30;
+                clientRepository.Update(client);
+
+                // Guardar los cambios en la Base de Datos.
+                clientRepository.Save();
+
+                foreach (var row in clientRepository.Get())
+                {
+                    Console.WriteLine($"{row.Id}  {row.Name} {row.LastName}  {row.Age}");
+                }
+            }            
 
             #endregion
         }
