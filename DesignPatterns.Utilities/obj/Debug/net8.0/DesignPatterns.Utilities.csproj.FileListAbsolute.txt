@@ -10,3 +10,15 @@ E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns.Utiliti
 E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\refint\DesignPatterns.Utilities.dll
 E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\DesignPatterns.Utilities.pdb
 E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\ref\DesignPatterns.Utilities.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\bin\Debug\net8.0\DesignPatterns.Utilities.deps.json
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\bin\Debug\net8.0\DesignPatterns.Utilities.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\bin\Debug\net8.0\DesignPatterns.Utilities.pdb
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\DesignPatterns.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\DesignPatterns.Utilities.AssemblyInfoInputs.cache
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\DesignPatterns.Utilities.AssemblyInfo.cs
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\DesignPatterns.Utilities.csproj.CoreCompileInputs.cache
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\DesignPatterns.Utilities.sourcelink.json
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\DesignPatterns.Utilities.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\refint\DesignPatterns.Utilities.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\DesignPatterns.Utilities.pdb
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Utilities\obj\Debug\net8.0\ref\DesignPatterns.Utilities.dll

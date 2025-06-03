@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesignPatterns_ASPNETCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74e1067f45777c93a1df85e8f8ebaf0149d5bd8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef867d7e8f3554844c7ffe9806b739bf312587a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesignPatterns_ASPNETCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesignPatterns_ASPNETCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

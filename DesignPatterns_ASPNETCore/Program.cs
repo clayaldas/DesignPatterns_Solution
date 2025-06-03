@@ -1,64 +1,84 @@
+using DesignPatterns.Models.Data;
+using DesignPatterns.Repository;
 using DesignPatterns.Utilities.FactoryMethod_Profit.Factories;
 using DesignPatterns_ASPNETCore.Configuration;
+using Microsoft.EntityFrameworkCore;
 
 namespace DesignPatterns_ASPNETCore
 {
-    public class Program
+  public class Program
+  {
+    public static void Main(string[] args)
     {
-        public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
+      var builder = WebApplication.CreateBuilder(args);
 
-            // *************************************************************
-            // Inyección de Dependencias
-            // *************************************************************
+      // *************************************************************
+      // Inyección de Dependencias
+      // *************************************************************
 
-            // Esto permite inyectar la clase "CustomConfiguration" en Container para esta pueda 
-            // ser utilizada por cualquier "Controller".
-            builder.Services.Configure<CustomConfiguration>(builder.Configuration.GetSection("CustomConfiguration"));
+      // Esto permite inyectar la clase "CustomConfiguration" en Container para esta pueda
+      // ser utilizada por cualquier "Controller".
+      builder.Services.Configure<CustomConfiguration>(
+          builder.Configuration.GetSection("CustomConfiguration")
+      );
 
-            // Injectar la clase: LocalProfitFactory
-            builder.Services.AddTransient(
-                (factory) =>
-                {
-                    return  new LocalProfitFactory(0.3m);
-                }
-                );
+      // Injectar la clase: LocalProfitFactory
+      builder.Services.AddTransient(
+          (factory) =>
+          {
+            return new LocalProfitFactory(0.3m);
+          }
+      );
 
-            // Injectar la clase: ForeignProfitFactory
-            builder.Services.AddTransient(
-                (factory) =>
-                {
-                    return new ForeignProfitFactory(0.3m, 0.16m);
-                }
-                );
+      // Injectar la clase: ForeignProfitFactory
+      builder.Services.AddTransient(
+          (factory) =>
+          {
+            return new ForeignProfitFactory(0.3m, 0.16m);
+          }
+      );
 
+      // Obtener el contexto de la base de datos.
+      // Inyectamos el contexto de la base de datos: SalesContext
+      builder.Services.AddDbContext<SalesContext>(options =>
+          options.UseSqlServer(builder.Configuration.GetConnectionString("Connection"))
+      );
 
-            // Add services to the container.
-            builder.Services.AddControllersWithViews();
+      // Inyectamos la clase: Factory
+      // AddScoped: lo que se inyecte con "Scoped" en el mismo controlador este va utilizar la misma instancia
+      //            no importa que se instancie varias veces.
+      // AddTransient: lo que se inyecte con "Transient" si se hace referencia al objeto varias veces en el
+      //            mismo controlador se va utilizar una nueva instancia para cada referencia.
+      // AddSingleton: lo que se inyecte con "Singleton" va utilizar la misma instancia para todos los controladores.
+      // Utilizammos AddScoped para que se utilice el mismo objeto para toda la solicitud HTTP.
+      builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
-            var app = builder.Build();
+      // Add services to the container.
+      builder.Services.AddControllersWithViews();
 
-            // Configure the HTTP request pipeline.
-            if (!app.Environment.IsDevelopment())
-            {
-                app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
-            }
+      var app = builder.Build();
 
-            app.UseHttpsRedirection();
-            app.UseStaticFiles();
+      // Configure the HTTP request pipeline.
+      if (!app.Environment.IsDevelopment())
+      {
+        app.UseExceptionHandler("/Home/Error");
+        // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+        app.UseHsts();
+      }
 
-            app.UseRouting();
+      app.UseHttpsRedirection();
+      app.UseStaticFiles();
 
-            app.UseAuthorization();
+      app.UseRouting();
 
-            app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+      app.UseAuthorization();
 
-            app.Run();
-        }
+      app.MapControllerRoute(
+          name: "default",
+          pattern: "{controller=Home}/{action=Index}/{id?}"
+      );
+
+      app.Run();
     }
+  }
 }

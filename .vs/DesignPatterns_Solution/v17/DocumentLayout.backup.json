@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\",
+  "WorkspaceRootPath": "D:\\Repositorios\\Clases_Ejercicios\\Patrones de Software\\DesignPatterns_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C799643C-F724-4374-A451-1A7718EB190F}|DesignPatterns_ASPNETCore\\DesignPatterns_ASPNETCore.csproj|d:\\repositorios\\clases_ejercicios\\patrones de software\\designpatterns_solution\\designpatterns_aspnetcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C799643C-F724-4374-A451-1A7718EB190F}|DesignPatterns_ASPNETCore\\DesignPatterns_ASPNETCore.csproj|solutionrelative:designpatterns_aspnetcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\repositorypattern\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\repositorypattern\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\repositorypattern\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\repositorypattern\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\repositorypattern\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\repositorypattern\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\repositorypattern\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\repositorypattern\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C799643C-F724-4374-A451-1A7718EB190F}|DesignPatterns_ASPNETCore\\DesignPatterns_ASPNETCore.csproj|d:\\repositorios\\clases_ejercicios\\patrones de software\\designpatterns_solution\\designpatterns_aspnetcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C799643C-F724-4374-A451-1A7718EB190F}|DesignPatterns_ASPNETCore\\DesignPatterns_ASPNETCore.csproj|solutionrelative:designpatterns_aspnetcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Program.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Program.cs",
-              "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAA4wJYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:28:45.357Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientRepository.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\ClientRepository.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\RepositoryPattern\\ClientRepository.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\ClientRepository.cs",
-              "RelativeToolTip": "DesignPatterns\\RepositoryPattern\\ClientRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwDEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:12:12.149Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repositorios\\Clases_Ejercicios\\Patrones de Software\\DesignPatterns_Solution\\DesignPatterns_ASPNETCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DesignPatterns_ASPNETCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Repositorios\\Clases_Ejercicios\\Patrones de Software\\DesignPatterns_Solution\\DesignPatterns_ASPNETCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DesignPatterns_ASPNETCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T22:16:57.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\Repository.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\RepositoryPattern\\Repository.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\Repository.cs",
-              "RelativeToolTip": "DesignPatterns\\RepositoryPattern\\Repository.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Clases_Ejercicios\\Patrones de Software\\DesignPatterns_Solution\\DesignPatterns_ASPNETCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DesignPatterns_ASPNETCore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Repositorios\\Clases_Ejercicios\\Patrones de Software\\DesignPatterns_Solution\\DesignPatterns_ASPNETCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DesignPatterns_ASPNETCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:08:31.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IClientRepository.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\IClientRepository.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\RepositoryPattern\\IClientRepository.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\IClientRepository.cs",
-              "RelativeToolTip": "DesignPatterns\\RepositoryPattern\\IClientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:03:27.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\IRepository.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\RepositoryPattern\\IRepository.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\RepositoryPattern\\IRepository.cs",
-              "RelativeToolTip": "DesignPatterns\\RepositoryPattern\\IRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T16:59:58.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T22:16:51.024Z"
             }
           ]
         }

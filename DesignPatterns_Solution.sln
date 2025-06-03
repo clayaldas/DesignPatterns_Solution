@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns_ASPNETCore",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Utilities", "DesignPatterns.Utilities\DesignPatterns.Utilities.csproj", "{4997B964-8AF2-4361-8613-1EA93EE389BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Models", "DesignPatterns.Models\DesignPatterns.Models.csproj", "{9DCC4206-6330-4E75-A8FC-3652E5630160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Repository", "DesignPatterns.Repository\DesignPatterns.Repository.csproj", "{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4997B964-8AF2-4361-8613-1EA93EE389BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4997B964-8AF2-4361-8613-1EA93EE389BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4997B964-8AF2-4361-8613-1EA93EE389BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCC4206-6330-4E75-A8FC-3652E5630160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCC4206-6330-4E75-A8FC-3652E5630160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCC4206-6330-4E75-A8FC-3652E5630160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCC4206-6330-4E75-A8FC-3652E5630160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

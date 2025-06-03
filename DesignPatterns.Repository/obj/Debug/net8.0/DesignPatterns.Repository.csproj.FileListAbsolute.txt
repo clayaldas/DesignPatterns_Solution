@@ -1,0 +1,16 @@
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\bin\Debug\net8.0\DesignPatterns.Repository.deps.json
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\bin\Debug\net8.0\DesignPatterns.Repository.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\bin\Debug\net8.0\DesignPatterns.Repository.pdb
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPatterns.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPatterns.Repository.AssemblyInfoInputs.cache
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPatterns.Repository.AssemblyInfo.cs
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPatterns.Repository.csproj.CoreCompileInputs.cache
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPatterns.Repository.sourcelink.json
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPatterns.Repository.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\refint\DesignPatterns.Repository.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPatterns.Repository.pdb
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\ref\DesignPatterns.Repository.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\bin\Debug\net8.0\DesignPatterns.Models.dll
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\bin\Debug\net8.0\DesignPatterns.Models.pdb
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPatterns.Repository.csproj.AssemblyReference.cache
+D:\Repositorios\Clases_Ejercicios\Patrones de Software\DesignPatterns_Solution\DesignPatterns.Repository\obj\Debug\net8.0\DesignPa.CEA10F0B.Up2Date
