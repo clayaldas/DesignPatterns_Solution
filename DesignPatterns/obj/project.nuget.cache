@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B8fGPQaR/Ig=",
+  "dgSpecHash": "Ci3KJs3fOm0=",
   "success": true,
-  "projectFilePath": "D:\\Repositorios\\Clases_Ejercicios\\Patrones de Software\\DesignPatterns_Solution\\DesignPatterns\\DesignPatterns.csproj",
+  "projectFilePath": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\DesignPatterns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DOCENTE\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DOCENTE\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

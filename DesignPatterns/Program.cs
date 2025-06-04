@@ -1,5 +1,6 @@
 ﻿using DesignPatterns.Models;
 using DesignPatterns.RepositoryPattern;
+using DesignPatterns.UnitOfWorkPattern;
 
 namespace DesignPatterns
 {
@@ -133,7 +134,7 @@ namespace DesignPatterns
             #endregion
 
             #region Repository con genericios Ejemplo 2
-
+            /*
             // Utilizar la clase: Client
             using (var context = new SalesContext()) 
             { 
@@ -163,6 +164,49 @@ namespace DesignPatterns
                     Console.WriteLine($"{row.Id}  {row.Name} {row.LastName}  {row.Age}");
                 }
             }            
+            */
+
+            #endregion
+
+            #region Unit Of Work
+
+            using (var context = new SalesContext())
+            {
+                // Utilizar el patrón Unit Of Work
+                var unitOfWork = new UnitOfWork(context);
+
+                // Regresar una instancia para trabajar con el repositorio (Clients)
+                var clients = unitOfWork.Clients;
+
+                // Crear un objeto de tipo: Client 
+                var client = new Client() 
+                { 
+                    Name = "John",
+                    LastName = "Doe",
+                    Age = 43
+                };
+
+                // Agregar el registro a la memoria
+                clients.Add(client);
+
+                // Repetir el proceso para la tabla "Products"
+                // Regresar una instancia para trabajar con el repositorio (Products)
+                var products = unitOfWork.Products;
+
+                // Crear un objeto de tipo: Client 
+                var product = new Product()
+                {
+                    Name = "Computadores",
+                    UnitsInStock = 300,
+                    UnitPrice = 43,
+                };
+
+                // Agregar el registro a la memoria
+                products.Add(product);
+
+                // Guarde en la tabla: Clients y en Products
+                unitOfWork.Save();
+            }
 
             #endregion
         }

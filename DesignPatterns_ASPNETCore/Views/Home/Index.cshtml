@@ -1,1 +1,16 @@
-﻿
+﻿@using DesignPatterns.Models.Data;
+@model IEnumerable<Client>;
+
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+	<div class="col-md-12">
+		@foreach(var row in Model)
+		{
+			<p>@row.ClientId &nbsp; @row.Name &nbsp; @row.LastName &nbsp; @row.Age</p>
+		}
+
+	</div>
+</div>
