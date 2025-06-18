@@ -53,6 +53,9 @@ namespace DesignPatterns_ASPNETCore
       // Utilizammos AddScoped para que se utilice el mismo objeto para toda la solicitud HTTP.
       builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
+      // Inyectar el la Interface y la clase que implementa la Interface
+      builder.Services.AddScoped<IUnitOfWork,  UnitOfWork>();
+
       // Add services to the container.
       builder.Services.AddControllersWithViews();
 

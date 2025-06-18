@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}|DesignPatterns.Repository\\DesignPatterns.Repository.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}|DesignPatterns.Repository\\DesignPatterns.Repository.csproj|solutionrelative:designpatterns.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}|DesignPatterns.Repository\\DesignPatterns.Repository.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns.repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E389DF1B-C0D6-4C91-83AD-EA9574E911AD}|DesignPatterns.Repository\\DesignPatterns.Repository.csproj|solutionrelative:designpatterns.repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\strategypattern\\bicyclestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategypattern\\bicyclestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\strategypattern\\motostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategypattern\\motostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\strategypattern\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategypattern\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\strategypattern\\carstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategypattern\\carstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|e:\\patrones software (ejercicios)\\designpatterns_solution\\designpatterns\\strategypattern\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4945B1-8A77-49EC-BAEF-FD8554C92BC9}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\strategypattern\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns.Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "DesignPatterns.Repository\\UnitOfWork.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns.Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "DesignPatterns.Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BicycleStrategy.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\BicycleStrategy.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\StrategyPattern\\BicycleStrategy.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\BicycleStrategy.cs",
+              "RelativeToolTip": "DesignPatterns\\StrategyPattern\\BicycleStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:58:45.881Z",
+              "WhenOpened": "2025-06-18T18:01:03.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns.Repository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "DesignPatterns.Repository\\IUnitOfWork.cs",
-              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns.Repository\\IUnitOfWork.cs",
-              "RelativeToolTip": "DesignPatterns.Repository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAYwNgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:56:57.006Z",
+              "WhenOpened": "2025-06-18T17:55:41.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\Context.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\StrategyPattern\\Context.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\Context.cs",
+              "RelativeToolTip": "DesignPatterns\\StrategyPattern\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:47:46.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotoStrategy.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\MotoStrategy.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\StrategyPattern\\MotoStrategy.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\MotoStrategy.cs",
+              "RelativeToolTip": "DesignPatterns\\StrategyPattern\\MotoStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:45:36.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarStrategy.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\CarStrategy.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\StrategyPattern\\CarStrategy.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\CarStrategy.cs",
+              "RelativeToolTip": "DesignPatterns\\StrategyPattern\\CarStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:43:12.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStrategy.cs",
+              "DocumentMoniker": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\IStrategy.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\StrategyPattern\\IStrategy.cs",
+              "ToolTip": "E:\\Patrones Software (Ejercicios)\\DesignPatterns_Solution\\DesignPatterns\\StrategyPattern\\IStrategy.cs",
+              "RelativeToolTip": "DesignPatterns\\StrategyPattern\\IStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:40:22.695Z",
               "EditorCaption": ""
             }
           ]

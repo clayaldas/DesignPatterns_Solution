@@ -1,5 +1,6 @@
 ﻿using DesignPatterns.Models;
 using DesignPatterns.RepositoryPattern;
+using DesignPatterns.StrategyPattern;
 using DesignPatterns.UnitOfWorkPattern;
 
 namespace DesignPatterns
@@ -170,6 +171,7 @@ namespace DesignPatterns
 
             #region Unit Of Work
 
+            /*
             using (var context = new SalesContext())
             {
                 // Utilizar el patrón Unit Of Work
@@ -207,8 +209,27 @@ namespace DesignPatterns
                 // Guarde en la tabla: Clients y en Products
                 unitOfWork.Save();
             }
+            */
+            #endregion
+
+            #region Patron Strategy
+
+            var context = new Context(new CarStrategy());
+            context.DoSomenthing();
+
+            // Cambiar la estrategia
+            context.Strategy = new MotoStrategy();
+            context.DoSomenthing();
+
+
+            // Cambiar la estrategia
+            context.Strategy = new BicycleStrategy();
+            context.DoSomenthing();
+
 
             #endregion
+
+
         }
     }
 }
