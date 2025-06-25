@@ -1,0 +1,232 @@
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\appsettings.Development.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\appsettings.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.staticwebassets.runtime.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.staticwebassets.endpoints.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.exe
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.deps.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.runtimeconfig.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.pdb
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.AssemblyInfoInputs.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.AssemblyInfo.cs
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.csproj.CoreCompileInputs.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.MvcApplicationPartsAssemblyInfo.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.RazorAssemblyInfo.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.RazorAssemblyInfo.cs
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.sourcelink.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\bundle\DesignPatterns_ASPNETCore.styles.css
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\projectbundle\DesignPatterns_ASPNETCore.bundle.scp.css
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.build.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.development.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.DesignPatterns_ASPNETCore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.DesignPatterns_ASPNETCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.build.DesignPatterns_ASPNETCore.props
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DesignPatterns_ASPNETCore.props
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DesignPatterns_ASPNETCore.props
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\refint\DesignPatterns_ASPNETCore.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.pdb
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.genruntimeconfig.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\ref\DesignPatterns_ASPNETCore.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Utilities.dll
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Utilities.pdb
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.csproj.AssemblyReference.cache
+E:\Patrones Software (Ejercicios)\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPa.57B042C1.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\appsettings.Development.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\appsettings.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.staticwebassets.runtime.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.staticwebassets.endpoints.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Azure.Core.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Azure.Identity.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.ClientModel.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Text.Json.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Models.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Repository.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Utilities.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Models.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Repository.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Utilities.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.csproj.AssemblyReference.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.RazorAssemblyInfo.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.RazorAssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.sourcelink.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\bundle\DesignPatterns_ASPNETCore.styles.css
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\projectbundle\DesignPatterns_ASPNETCore.bundle.scp.css
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.build.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.development.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPa.57B042C1.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\refint\DesignPatterns_ASPNETCore.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\ref\DesignPatterns_ASPNETCore.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\appsettings.Development.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\appsettings.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.staticwebassets.runtime.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.staticwebassets.endpoints.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.exe
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.deps.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.runtimeconfig.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns_ASPNETCore.pdb
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Azure.Core.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Azure.Identity.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.ClientModel.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Text.Json.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Models.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Repository.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Utilities.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Models.pdb
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Repository.pdb
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\bin\Debug\net8.0\DesignPatterns.Utilities.pdb
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.csproj.AssemblyReference.cache
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.AssemblyInfoInputs.cache
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.AssemblyInfo.cs
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.csproj.CoreCompileInputs.cache
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.MvcApplicationPartsAssemblyInfo.cache
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.RazorAssemblyInfo.cache
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.RazorAssemblyInfo.cs
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.sourcelink.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\bundle\DesignPatterns_ASPNETCore.styles.css
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\scopedcss\projectbundle\DesignPatterns_ASPNETCore.bundle.scp.css
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.build.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.development.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.DesignPatterns_ASPNETCore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.DesignPatterns_ASPNETCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.build.DesignPatterns_ASPNETCore.props
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DesignPatterns_ASPNETCore.props
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DesignPatterns_ASPNETCore.props
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPa.57B042C1.Up2Date
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\refint\DesignPatterns_ASPNETCore.dll
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.pdb
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\DesignPatterns_ASPNETCore.genruntimeconfig.cache
+E:\Respaldo\DesignPatterns_Solution\DesignPatterns_ASPNETCore\obj\Debug\net8.0\ref\DesignPatterns_ASPNETCore.dll

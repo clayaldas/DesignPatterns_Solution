@@ -1,0 +1,24 @@
+﻿@{
+    // Agregamos el cachado del diccionario "ViewBag".
+    // lo pasamos del "Controller".
+
+    // Recuperamos el valor de la variable.
+    decimal totalLocal = (decimal)ViewBag.totalLocal;
+
+    decimal totalForeign = (decimal)ViewBag.totalForeign;
+}
+
+@* // Como ASPNET utiliza BootStrap lo utilizamos *@
+
+<div class="row">
+    <div class="col-12">
+        <label>Total de ganancias local: </label>
+        <b>@totalLocal</b>
+
+        <br />
+        <label>Total de ganancias del extranjero: </label>
+        <b>@totalForeign</b>
+
+        <br />
+    </div>
+</div>
