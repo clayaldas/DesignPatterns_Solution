@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsImplementation", "DesignPatternsImplementation\DesignPatternsImplementation.csproj", "{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCore_DesignPatterns", "ASPNETCore_DesignPatterns\ASPNETCore_DesignPatterns.csproj", "{98CECE32-A2E4-4B64-A581-AD20122CE876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities.DesignPatterns", "Utilities.DesignPatterns\Utilities.DesignPatterns.csproj", "{840A0AC1-51AD-433A-BB4F-1ED1C8BDBDF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CECE32-A2E4-4B64-A581-AD20122CE876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CECE32-A2E4-4B64-A581-AD20122CE876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CECE32-A2E4-4B64-A581-AD20122CE876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CECE32-A2E4-4B64-A581-AD20122CE876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840A0AC1-51AD-433A-BB4F-1ED1C8BDBDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840A0AC1-51AD-433A-BB4F-1ED1C8BDBDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840A0AC1-51AD-433A-BB4F-1ED1C8BDBDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840A0AC1-51AD-433A-BB4F-1ED1C8BDBDF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

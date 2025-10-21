@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\Patrones de Software\\DesignPatterns_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|e:\\patrones de software\\designpatterns_solution\\designpatternsimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|solutionrelative:designpatternsimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|e:\\patrones de software\\designpatterns_solution\\designpatternsimplementation\\mysingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|solutionrelative:designpatternsimplementation\\mysingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{840A0AC1-51AD-433A-BB4F-1ED1C8BDBDF7}|Utilities.DesignPatterns\\Utilities.DesignPatterns.csproj|e:\\patrones de software\\designpatterns_solution\\utilities.designpatterns\\singleton\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840A0AC1-51AD-433A-BB4F-1ED1C8BDBDF7}|Utilities.DesignPatterns\\Utilities.DesignPatterns.csproj|solutionrelative:utilities.designpatterns\\singleton\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MySingleton.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\MySingleton.cs",
-              "RelativeDocumentMoniker": "DesignPatternsImplementation\\MySingleton.cs",
-              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\MySingleton.cs",
-              "RelativeToolTip": "DesignPatternsImplementation\\MySingleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T17:43:51.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\Program.cs",
-              "RelativeDocumentMoniker": "DesignPatternsImplementation\\Program.cs",
-              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\Program.cs",
-              "RelativeToolTip": "DesignPatternsImplementation\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Title": "Log.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\Utilities.DesignPatterns\\Singleton\\Log.cs",
+              "RelativeDocumentMoniker": "Utilities.DesignPatterns\\Singleton\\Log.cs",
+              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\Utilities.DesignPatterns\\Singleton\\Log.cs",
+              "RelativeToolTip": "Utilities.DesignPatterns\\Singleton\\Log.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T17:41:51.358Z",
+              "WhenOpened": "2025-10-21T17:56:09.4Z",
               "EditorCaption": ""
             }
           ]

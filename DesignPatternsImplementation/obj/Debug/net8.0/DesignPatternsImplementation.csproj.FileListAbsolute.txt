@@ -12,3 +12,8 @@ E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\obj
 E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\obj\Debug\net8.0\DesignPatternsImplementation.pdb
 E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\obj\Debug\net8.0\DesignPatternsImplementation.genruntimeconfig.cache
 E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\obj\Debug\net8.0\ref\DesignPatternsImplementation.dll
+E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\obj\Debug\net8.0\DesignPatternsImplementation.sourcelink.json
+E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\bin\Debug\net8.0\Utilities.DesignPatterns.dll
+E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\bin\Debug\net8.0\Utilities.DesignPatterns.pdb
+E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\obj\Debug\net8.0\DesignPatternsImplementation.csproj.AssemblyReference.cache
+E:\Patrones de Software\DesignPatterns_Solution\DesignPatternsImplementation\obj\Debug\net8.0\DesignPa.13D4857D.Up2Date

@@ -11,4 +11,8 @@
     <Folder Include="Singleton\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Utilities.DesignPatterns\Utilities.DesignPatterns.csproj" />
+  </ItemGroup>
+
 </Project>
