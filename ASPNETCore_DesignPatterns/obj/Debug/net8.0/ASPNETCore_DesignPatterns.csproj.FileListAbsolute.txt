@@ -32,3 +32,7 @@ E:\Patrones de Software\DesignPatterns_Solution\ASPNETCore_DesignPatterns\obj\De
 E:\Patrones de Software\DesignPatterns_Solution\ASPNETCore_DesignPatterns\obj\Debug\net8.0\ASPNETCore_DesignPatterns.pdb
 E:\Patrones de Software\DesignPatterns_Solution\ASPNETCore_DesignPatterns\obj\Debug\net8.0\ASPNETCore_DesignPatterns.genruntimeconfig.cache
 E:\Patrones de Software\DesignPatterns_Solution\ASPNETCore_DesignPatterns\obj\Debug\net8.0\ref\ASPNETCore_DesignPatterns.dll
+E:\Patrones de Software\DesignPatterns_Solution\ASPNETCore_DesignPatterns\bin\Debug\net8.0\Utilities.DesignPatterns.dll
+E:\Patrones de Software\DesignPatterns_Solution\ASPNETCore_DesignPatterns\bin\Debug\net8.0\Utilities.DesignPatterns.pdb
+E:\Patrones de Software\DesignPatterns_Solution\ASPNETCore_DesignPatterns\obj\Debug\net8.0\ASPNETCore_DesignPatterns.csproj.AssemblyReference.cache
+E:\Patrones de Software\DesignPatterns_Solution\ASPNETCore_DesignPatterns\obj\Debug\net8.0\ASPNETCo.93121C77.Up2Date

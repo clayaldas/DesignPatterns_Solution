@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ASPNETCore_DesignPatterns/1.0.0": {
+        "dependencies": {
+          "Utilities.DesignPatterns": "1.0.0"
+        },
         "runtime": {
           "ASPNETCore_DesignPatterns.dll": {}
+        }
+      },
+      "Utilities.DesignPatterns/1.0.0": {
+        "runtime": {
+          "Utilities.DesignPatterns.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ASPNETCore_DesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilities.DesignPatterns/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
