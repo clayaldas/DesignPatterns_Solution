@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "E:\\Patrones de Software\\DesignPatterns_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|e:\\patrones de software\\designpatterns_solution\\aspnetcore_designpatterns\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|solutionrelative:aspnetcore_designpatterns\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|e:\\patrones de software\\designpatterns_solution\\aspnetcore_designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|solutionrelative:aspnetcore_designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|e:\\patrones de software\\designpatterns_solution\\aspnetcore_designpatterns\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|solutionrelative:aspnetcore_designpatterns\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\Program.cs",
               "RelativeDocumentMoniker": "ASPNETCore_DesignPatterns\\Program.cs",
               "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\Program.cs",
               "RelativeToolTip": "ASPNETCore_DesignPatterns\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T17:18:36.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\appsettings.json",
-              "RelativeDocumentMoniker": "ASPNETCore_DesignPatterns\\appsettings.json",
-              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\appsettings.json",
-              "RelativeToolTip": "ASPNETCore_DesignPatterns\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-28T17:08:21.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ASPNETCore_DesignPatterns\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ASPNETCore_DesignPatterns\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T16:24:20.881Z",
+              "WhenOpened": "2025-10-30T17:57:50.914Z",
               "EditorCaption": ""
             }
           ]

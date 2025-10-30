@@ -1,4 +1,4 @@
-﻿namespace DesignPatternsImplementation;
+﻿namespace DesignPatternsImplementation.Singleton;
 
 public class MySingleton
 {
