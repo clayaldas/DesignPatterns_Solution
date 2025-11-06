@@ -1,0 +1,20 @@
+﻿@{
+    // esto es codigo C# en el frontend
+    // recuperar los datos guardados en el diccionario (ViewBag)
+    decimal totalLocal = (decimal)ViewBag.totalLocal;
+    decimal totalForeign = (decimal)ViewBag.totalForeign;
+}
+
+@* Aqui va el código HTML. Como ASPNET soporta BootStrap *@
+<div class="row">
+    <div class="col-12">
+        <label>Total de ganancias locales: </label>
+        <b>@totalLocal</b>
+        <br />
+
+        <label>Total de ganancias a nivel del extranjero: </label>
+        <b>@totalForeign</b>
+        <br />
+
+    </div>
+</div>
