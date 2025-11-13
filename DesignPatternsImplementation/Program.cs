@@ -1,5 +1,6 @@
 ﻿using DesignPatternsImplementation.Factory_Method.Factories;
 using DesignPatternsImplementation.Factory_Method.Products;
+using DesignPatternsImplementation.Models;
 using DesignPatternsImplementation.Singleton;
 
 namespace DesignPatternsImplementation;
@@ -30,6 +31,8 @@ internal class Program
         */
         #endregion
 
+        #region Patrón Factory Method
+        /*
         Console.WriteLine("Patrón Factory Method");
         Console.WriteLine();
 
@@ -61,5 +64,30 @@ internal class Program
 
         Console.WriteLine("Presione una tecla para continuar");
         Console.ReadKey();
+        */
+        #endregion
+
+
+
+        // Trabajo con SQL Server
+        // usando EntityFramework Core
+        #region EntityFramework
+        using (var context = new SalesContext())
+        {
+            Console.WriteLine("Trabajo con EntityFramework Core");
+            Console.WriteLine();
+            
+            // Recuperar los datos de la tabla: Clients
+            var listClients = context.Clients.ToList();
+
+            // Mostrar los datos
+            foreach (var client in listClients)
+            {
+                Console.WriteLine(client.ClientId + "   " + client.Name + 
+                    "   " + client.LastName + "   " + client.Age);
+            }
+        }
+
+        #endregion
     }
 }

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Patrones de Software\\DesignPatterns_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|e:\\patrones de software\\designpatterns_solution\\aspnetcore_designpatterns\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|solutionrelative:aspnetcore_designpatterns\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|e:\\patrones de software\\designpatterns_solution\\designpatternsimplementation\\models\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|solutionrelative:designpatternsimplementation\\models\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|e:\\patrones de software\\designpatterns_solution\\aspnetcore_designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98CECE32-A2E4-4B64-A581-AD20122CE876}|ASPNETCore_DesignPatterns\\ASPNETCore_DesignPatterns.csproj|solutionrelative:aspnetcore_designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|e:\\patrones de software\\designpatterns_solution\\designpatternsimplementation\\repositorypattern\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|solutionrelative:designpatternsimplementation\\repositorypattern\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|e:\\patrones de software\\designpatterns_solution\\designpatternsimplementation\\designpatternsimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|solutionrelative:designpatternsimplementation\\designpatternsimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|e:\\patrones de software\\designpatterns_solution\\designpatternsimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE9F2BD-9051-4F6C-962D-A588D624F8D2}|DesignPatternsImplementation\\DesignPatternsImplementation.csproj|solutionrelative:designpatternsimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\Program.cs",
-              "RelativeDocumentMoniker": "ASPNETCore_DesignPatterns\\Program.cs",
-              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\Program.cs",
-              "RelativeToolTip": "ASPNETCore_DesignPatterns\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBgAAAAAAAAAAAAAAA==",
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\RepositoryPattern\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "DesignPatternsImplementation\\RepositoryPattern\\IClientRepository.cs",
+              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\RepositoryPattern\\IClientRepository.cs",
+              "RelativeToolTip": "DesignPatternsImplementation\\RepositoryPattern\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T17:44:16.975Z",
+              "WhenOpened": "2025-11-13T17:50:45.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesignPatternsImplementation",
+              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\DesignPatternsImplementation.csproj",
+              "RelativeDocumentMoniker": "DesignPatternsImplementation\\DesignPatternsImplementation.csproj",
+              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\DesignPatternsImplementation.csproj",
+              "RelativeToolTip": "DesignPatternsImplementation\\DesignPatternsImplementation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T17:49:16.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatternsImplementation\\Program.cs",
+              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\Program.cs",
+              "RelativeToolTip": "DesignPatternsImplementation\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:35:47.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductDetailController.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\Controllers\\ProductDetailController.cs",
-              "RelativeDocumentMoniker": "ASPNETCore_DesignPatterns\\Controllers\\ProductDetailController.cs",
-              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\ASPNETCore_DesignPatterns\\Controllers\\ProductDetailController.cs",
-              "RelativeToolTip": "ASPNETCore_DesignPatterns\\Controllers\\ProductDetailController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Title": "SalesContext.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\Models\\SalesContext.cs",
+              "RelativeDocumentMoniker": "DesignPatternsImplementation\\Models\\SalesContext.cs",
+              "ToolTip": "E:\\Patrones de Software\\DesignPatterns_Solution\\DesignPatternsImplementation\\Models\\SalesContext.cs",
+              "RelativeToolTip": "DesignPatternsImplementation\\Models\\SalesContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T17:42:02.818Z",
+              "WhenOpened": "2025-11-13T17:34:21.659Z",
               "EditorCaption": ""
             }
           ]

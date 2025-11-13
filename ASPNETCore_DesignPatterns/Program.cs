@@ -18,9 +18,17 @@ namespace ASPNETCore_DesignPatterns
             // en cualquier para del proyecto en este caso se va a utilizar en un Controller            
             builder.Services.Configure<CustomConfiguration>(builder.Configuration.GetSection("CustomConfiguration"));
 
-            // Inyectar la clase: LocalProfitFactory
-            builder.Services.AddTransient((factory)=> {
-                return new LocalProfitFactory(0.4m);
+            // Crear la clase: LocalProfitFactory
+            builder.Services.AddTransient((factory) =>
+            {
+                //return new LocalProfitFactory(0.74m);
+                return new LocalProfitFactory(0.70m);
+            });
+
+            // Crear la clase: LocalProfitFactory
+            builder.Services.AddTransient((factory) =>
+            {
+                return new ForeignProfitFactory(0.7m, 0.16m);
             });
 
             // Permite agragar el soporte para utilizar MVC
