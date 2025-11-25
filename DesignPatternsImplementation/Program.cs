@@ -1,6 +1,7 @@
 ﻿using DesignPatternsImplementation.Factory_Method.Factories;
 using DesignPatternsImplementation.Factory_Method.Products;
 using DesignPatternsImplementation.Models;
+using DesignPatternsImplementation.RepositoryPattern;
 using DesignPatternsImplementation.Singleton;
 
 namespace DesignPatternsImplementation;
@@ -72,19 +73,47 @@ internal class Program
         // Trabajo con SQL Server
         // usando EntityFramework Core
         #region EntityFramework
-        using (var context = new SalesContext())
-        {
-            Console.WriteLine("Trabajo con EntityFramework Core");
-            Console.WriteLine();
+        //using (var context = new SalesContext())
+        //{
+        //    Console.WriteLine("Trabajo con EntityFramework Core");
+        //    Console.WriteLine();
             
-            // Recuperar los datos de la tabla: Clients
-            var listClients = context.Clients.ToList();
+        //    // Recuperar los datos de la tabla: Clients
+        //    var listClients = context.Clients.ToList();
 
-            // Mostrar los datos
-            foreach (var client in listClients)
+        //    // Mostrar los datos
+        //    foreach (var client in listClients)
+        //    {
+        //        Console.WriteLine(client.ClientId + "   " + client.Name + 
+        //            "   " + client.LastName + "   " + client.Age);
+        //    }
+        //}
+
+        using (var context = new SalesContext()) 
+        {
+            Console.WriteLine("Entity Framework Core");
+            Console.WriteLine();
+
+            // Crear un repositorio
+            var clientRepository = new ClientRepository(context);
+            
+            var client = new Client();
+            // Insertar un registro
+            //client.ClientId = 100;
+            client.Name = "John";
+            client.LastName = "Doe";
+            client.Age = 34;
+
+            // usar el repositorio
+            clientRepository.Add(client);
+
+            // Enviar los cambios a la BD
+            clientRepository.Save();
+
+            // Verificar que el registro se inserto
+            foreach(var row in clientRepository.Get())
             {
-                Console.WriteLine(client.ClientId + "   " + client.Name + 
-                    "   " + client.LastName + "   " + client.Age);
+                Console.WriteLine(row.ClientId + "  " + row.Name + "  " + row.Age);
             }
         }
 

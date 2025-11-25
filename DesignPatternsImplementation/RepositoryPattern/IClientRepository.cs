@@ -6,6 +6,10 @@ public interface IClientRepository
 {
     // Regresar todos los datos
     IEnumerable<Client> Get();
+
+    // Regresar el registro según el Id 
+    Client Get(int id);
+
     // Agregar un cliente
     void Add(Client client);
     // Eliminar un cliente
